@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="even2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/storage.zip!/" />
+      <root url="jar://$PROJECT_DIR$/even2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/public.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
